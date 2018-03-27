@@ -1,0 +1,11 @@
+C:\Users\Bernard\Documents\Visual Studio 2015\Projects\ApplicationMuterMicInput\ApplicationMuterMicInput\bin\Release\ApplicationMuterMicInput.exe.config
+C:\Users\Bernard\Documents\Visual Studio 2015\Projects\ApplicationMuterMicInput\ApplicationMuterMicInput\bin\Release\ApplicationMuterMicInput.exe
+C:\Users\Bernard\Documents\Visual Studio 2015\Projects\ApplicationMuterMicInput\ApplicationMuterMicInput\bin\Release\ApplicationMuterMicInput.pdb
+C:\Users\Bernard\Documents\Visual Studio 2015\Projects\ApplicationMuterMicInput\ApplicationMuterMicInput\bin\Release\NAudio.dll
+C:\Users\Bernard\Documents\Visual Studio 2015\Projects\ApplicationMuterMicInput\ApplicationMuterMicInput\bin\Release\NAudio.xml
+C:\Users\Bernard\Documents\Visual Studio 2015\Projects\ApplicationMuterMicInput\ApplicationMuterMicInput\obj\Release\ApplicationMuterMicInput.csprojResolveAssemblyReference.cache
+C:\Users\Bernard\Documents\Visual Studio 2015\Projects\ApplicationMuterMicInput\ApplicationMuterMicInput\obj\Release\ApplicationMuterMicInput.Form1.resources
+C:\Users\Bernard\Documents\Visual Studio 2015\Projects\ApplicationMuterMicInput\ApplicationMuterMicInput\obj\Release\ApplicationMuterMicInput.Properties.Resources.resources
+C:\Users\Bernard\Documents\Visual Studio 2015\Projects\ApplicationMuterMicInput\ApplicationMuterMicInput\obj\Release\ApplicationMuterMicInput.csproj.GenerateResource.Cache
+C:\Users\Bernard\Documents\Visual Studio 2015\Projects\ApplicationMuterMicInput\ApplicationMuterMicInput\obj\Release\ApplicationMuterMicInput.exe
+C:\Users\Bernard\Documents\Visual Studio 2015\Projects\ApplicationMuterMicInput\ApplicationMuterMicInput\obj\Release\ApplicationMuterMicInput.pdb
